@@ -33,7 +33,7 @@
 <!-- <div class="navigation">
 <?php posts_nav_link(' | ','&laquo; Previous Page','Next Page &raquo;'); ?>
 </div> -->
-<div class="pagenavi"<?php par_pagenavi(); ?></div>
+<div class="pagenavi"><?php if(function_exists('wp_pagenavi')) { wp_pagenavi(); } ?> </div>
 <?php else : ?>
 
 <div class="post" id="post-<?php the_ID(); ?>">
