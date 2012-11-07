@@ -81,3 +81,7 @@ a{
 #footer a:hover {
 	color: #333333;
 }
+.pagenavi{
+	float: right;
+	margin-left: 100px;
+}

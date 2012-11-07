@@ -30,10 +30,10 @@
 
 <?php endwhile; ?>
 
-<div class="navigation">
+<!-- <div class="navigation">
 <?php posts_nav_link(' | ','&laquo; Previous Page','Next Page &raquo;'); ?>
-</div>
-
+</div> -->
+<div class="pagenavi"<?php par_pagenavi(); ?></div>
 <?php else : ?>
 
 <div class="post" id="post-<?php the_ID(); ?>">
