@@ -20,6 +20,3 @@
 <a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a><br /><br />
 “<?php bloginfo('description'); ?>”
 </div>
-<!-- <div id="navbar">
-<?php wp_page_menu('show_home=1'); ?>
-</div> -->

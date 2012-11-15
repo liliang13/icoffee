@@ -45,6 +45,14 @@ a{
 .post h2{
 	margin:0;
 }
+.border {
+	border-top: 1px solid #ddd;
+}
+#center{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
 .date{
 	font-family: "Helvetica Neue","微软雅黑";
 	font-size: 10px;
