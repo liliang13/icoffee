@@ -9,9 +9,10 @@ icoffee -- Wordpress theme
 1. 增加后台的设置功能。  
 2. 改善布局，调整比如时间的显示位置和格式。
 
-**License**
-  MIT License
 
+**License**
+==============  
+MIT license
 
 icoffee - a wordpress theme
 
