@@ -2,11 +2,20 @@
 /*
 Theme Name:icoffee
 Theme URI: http://liliang13.com
-Description: 简介的白色主题，两栏。
-Version: 1.0
+Description: 简介的白色主题，单栏。
+Version: 1.1
 Author: liliang
 Author URI: http://liliang13.com
 */
+
+/* main css*/
+@font-face {
+  font-family: 'Gentium Book Basic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gentium Book Basic'), local('GentiumBookBasic'), url(http://themes.googleusercontent.com/static/fonts/gentiumbookbasic/v3/IRFxB2matTxrjZt6a3FUnsiUQA3_wO-qQTJfqhvSKS0.woff) format('woff');
+}
+
 body {
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 	line-height: 1.5em;
@@ -16,8 +25,11 @@ a{
 	color:#0088D1; 
 	text-decoration:none;
 }
+
+/* header */
 #header {
-	margin:40px 0 0 60px;
+	margin-left: 290px;
+	margin-top: 60px;
 	padding-bottom:40px;
 	font-size: 19px;
 }
@@ -28,17 +40,17 @@ a{
 #header a:hover {
 	color: #333333;
 }
-.avatar{
+/*.avatar{
 	margin-bottom:50px;
 	padding:50px;
 	background-color:#f7f7f7;
-}
+}*/
 #posts{
 	float: left;
 	width: 960px;
 }
 .post{
-	margin: 25px 0 0 60px;
+	margin-left: 290px;
 	padding: 10px 0 10px 0;
 }
 .post h2{
@@ -64,8 +76,10 @@ a{
 	float: right;
 	padding-left:100px;
 }
+
+/* footer */
 #footer {
-	margin-left: 60px;
+	margin-left: 330px;
 	clear: both;
 	float: left;
 	height: 120px;
@@ -86,7 +100,4 @@ a{
 .pagenavi{
 	float: right;
 	margin-left: 100px;
-}
-#search {
-	float:right;
 }

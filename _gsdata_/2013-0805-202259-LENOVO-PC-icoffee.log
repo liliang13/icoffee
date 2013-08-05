@@ -1,0 +1,13 @@
+2013-08-05 20:22:59: ----- ：任务 'icoffee'：计算机 'LENOVO-PC' 上的分析操作已由 On File Change Incremental 所启动 (GoodSync v 9.4.9.5) -----
+2013-08-05 20:22:59: ~lenovo\icoffee (C:\Users\lenovo\icoffee) <-> E:\xampp\htdocs\wordpress\wp-content\themes\icoffee, UberUnlockedUpload
+2013-08-05 20:23:00: Change in: C:\Users\lenovo\icoffee\style.css
+2013-08-05 20:23:00: Change in: E:\xampp\htdocs\wordpress\wp-content\themes\icoffee\style.css
+2013-08-05 20:23:00: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： 
+2013-08-05 20:23:00: Right to Left: Copy File: 1 
+2013-08-05 20:23:00: ----- ：分析已结束。 历时 00:00:01， 速度： 13 个文件/秒 -----
+2013-08-05 20:23:00: ===== ：任务 'icoffee'：同步已被 On File Change Incremental 所启动，位于计算机 'LENOVO-PC' =====
+2013-08-05 20:23:00: ~lenovo\icoffee (C:\Users\lenovo\icoffee) <-> E:\xampp\htdocs\wordpress\wp-content\themes\icoffee, UberUnlockedUpload
+2013-08-05 20:23:00: 覆盖复制 'E:\xampp\htdocs\wordpress\wp-content\themes\icoffee\style.css' -> 'C:\Users\lenovo\icoffee\style.css'
+2013-08-05 20:23:00: 项目同步未必： 1，错误： 
+2013-08-05 20:23:00: ===== ：同步完毕。时间：00:00:00，速度：  =====
+2013-08-05 20:23:00: 

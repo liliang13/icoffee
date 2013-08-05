@@ -13,6 +13,7 @@
 <?php wp_get_archives('type=monthly&format=link'); ?>
 <?php //comments_popup_script(); // off by default ?>
 <?php wp_head(); ?>
+<script src="http://127.0.0.1:81/_/js/reloader.js"></script> 
 </head>
 <body>
 <div id="header">

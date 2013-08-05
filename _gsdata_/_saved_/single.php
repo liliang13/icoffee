@@ -10,9 +10,9 @@
 </div>
 			<div class="entry">
 				<?php the_content(); ?>
-					<!-- <div class="tags">
+					<div class="tags">
 						<?php the_tags('标签: ', ', ', ''); ?>
-					</div> -->
+					</div>
 			</div>
 <!-- Duoshuo Comment BEGIN -->
 	<div class="ds-thread"></div>
@@ -39,6 +39,7 @@
 	</div>
 <?php endif; ?>
 </div>
+<?php get_sidebar(); ?>
 <?php get_footer(); ?>
 <?php wp_footer(); ?>
 </body>

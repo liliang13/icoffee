@@ -1,0 +1,17 @@
+2013-08-05 20:08:19: ----- ：任务 'icoffee'：计算机 'LENOVO-PC' 上的分析操作已由 User 所启动 (GoodSync v 9.4.9.5) -----
+2013-08-05 20:08:19: ~lenovo\icoffee (C:\Users\lenovo\icoffee) <-> E:\xampp\htdocs\wordpress\wp-content\themes\icoffee
+2013-08-05 20:08:19: 左侧: State file does not exist: C:\Users\lenovo\icoffee\_gsdata_\_file_state._gs
+2013-08-05 20:08:19: 左侧: 未发现状态文件，新建状态文件
+2013-08-05 20:08:19: 左侧：文件： 11 (已排除 )。文件夹：  (已排除 1)。 C: NTFS, 可用空间：9.89 GB，总计空间：48.8 GB
+2013-08-05 20:08:19: 右侧: State file does not exist: E:\xampp\htdocs\wordpress\wp-content\themes\icoffee\_gsdata_\_file_state._gs
+2013-08-05 20:08:19: 右侧: 未发现状态文件，新建状态文件
+2013-08-05 20:08:19: 右侧：文件： 11 (已排除 )。文件夹：  (已排除 1)。 E: NTFS, 可用空间：158 GB，总计空间：178 GB
+2013-08-05 20:08:19: 变更：， 冲突：， 复制时间：， 复制状态：/11， 错误： 
+2013-08-05 20:08:19: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2013-08-05 20:08:19: 
+2013-08-05 20:08:24: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2013-08-05 20:08:24: ===== ：任务 'icoffee'：同步已被 User 所启动，位于计算机 'LENOVO-PC' =====
+2013-08-05 20:08:24: ~lenovo\icoffee (C:\Users\lenovo\icoffee) <-> E:\xampp\htdocs\wordpress\wp-content\themes\icoffee
+2013-08-05 20:08:24: 项目同步未必： 11，错误： 
+2013-08-05 20:08:24: ===== ：同步完毕。时间：00:00:00，速度：  =====
+2013-08-05 20:08:24: 

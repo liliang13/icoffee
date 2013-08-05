@@ -1,0 +1,103 @@
+@charset "utf-8";
+/*
+Theme Name:icoffee
+Theme URI: http://liliang13.com
+Description: 简介的白色主题，单栏。
+Version: 1.1
+Author: liliang
+Author URI: http://liliang13.com
+*/
+
+/* main css*/
+@font-face {
+  font-family: 'Gentium Book Basic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gentium Book Basic'), local('GentiumBookBasic'), url(http://themes.googleusercontent.com/static/fonts/gentiumbookbasic/v3/IRFxB2matTxrjZt6a3FUnsiUQA3_wO-qQTJfqhvSKS0.woff) format('woff');
+}
+
+body {
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	line-height: 1.5em;
+	color: #666666;
+}
+a{
+	color:#0088D1; 
+	text-decoration:none;
+}
+
+/* header */
+#header {
+	margin-left: 290px;
+	margin-top: 60px;
+	padding-bottom:40px;
+	font-size: 19px;
+}
+#header a {
+	color: #666666;
+	font-size: 43px;
+}
+#header a:hover {
+	color: #333333;
+}
+/*.avatar{
+	margin-bottom:50px;
+	padding:50px;
+	background-color:#f7f7f7;
+}*/
+#posts{
+	float: left;
+	width: 960px;
+}
+.post{
+	margin-left: 290px;
+	padding: 10px 0 10px 0;
+}
+.post h2{
+	margin:0;
+}
+.border {
+	border-top: 1px solid #ddd;
+}
+.date{
+	font-family: "Helvetica Neue","微软雅黑";
+	font-size: 10px;
+	padding-bottom: 15px;
+}
+.sidebar{
+	float: left;
+	width:265px;
+	font-size: 14px;
+	color: #999;
+	margin-top: 30px;
+	margin-bottom: 80px;
+}
+.navigation{
+	float: right;
+	padding-left:100px;
+}
+
+/* footer */
+#footer {
+	margin-left: 330px;
+	clear: both;
+	float: left;
+	height: 120px;
+}
+#footer p {
+	text-align: center;
+	font-size: 13px;
+	position: relative;
+	top: 40px;
+}
+#footer a {
+	color: #666666;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #333333;
+}
+.pagenavi{
+	float: right;
+	margin-left: 100px;
+}
